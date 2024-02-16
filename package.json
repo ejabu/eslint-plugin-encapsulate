@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-encapsulate",
+  "version": "0.1.2",
+  "description": "ESLint plugin for class encapsulation.",
+  "author": "ejabu",
+  "main": "src/index.js",
+  "scripts": {},
+  "license": "MIT License",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "requireindex": "^1.2.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=8.0.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ]
+}
